@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+$primary-color:#222;
+$main-color:#ffff;
+
+body{
+    background-color: $primary-color;
+    text-align: center;
+    color: $main-color;
+}
+
+
